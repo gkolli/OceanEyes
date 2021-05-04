@@ -5,4 +5,4 @@ The original input dignal data contained the song calls of a fin whale (around 2
 
 Thus, filters had to be designed to limit the higher frequency data to allow for the lower frequency fin whale data to be 'heard.' Thus, a low-pass filter had to be utilized. This was iterated throughout this project, and it was finally determined that a fifth-order low-pass filter would filter enough of the higher-frequency humpback whale data.   
 
-Signal Processing was completed in MATLAB - adapted from a script provided by the professor - in both the time and frequency domains. The Fourier and Inverse Fourier Transforms were utilized to convert between the two domains. 
+Signal Processing was completed in MATLAB in both the time and frequency domains. The Fourier and Inverse Fourier Transforms were utilized to convert between the two domains. 
